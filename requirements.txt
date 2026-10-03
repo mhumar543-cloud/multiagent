@@ -1,0 +1,15 @@
+﻿langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-huggingface
+langgraph
+chromadb
+sentence-transformers
+pypdf
+pydantic
+python-dotenv
+httpx
+mcp
+
